@@ -1,1 +1,8 @@
 hello world
+
+class myclass{
+
+public static void main(){
+sysout("hello welcome whatever..");
+}
+}
