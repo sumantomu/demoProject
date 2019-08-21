@@ -3,6 +3,6 @@ hello world
 class myclass{
 
 public static void main(){
-sysout("hello welcome whatever..");
+System.out.println("hello welcome whatever..");
 }
 }
